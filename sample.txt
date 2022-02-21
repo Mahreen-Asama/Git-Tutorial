@@ -7,4 +7,3 @@ Table of contents:
 4) test material
 5) merge conflict resolved
 6) git operations and commands
-7) h7 added
