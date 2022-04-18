@@ -2,7 +2,3 @@ Table of contents:
 
 1) What is Version Control System (VCS)?
 2) What is Git and GitHub
-3) Installation of Git
-4) Create and Initialize a Project in Git
-5) Creating a GitHub Repository
-6) Git Operatins and Commands
