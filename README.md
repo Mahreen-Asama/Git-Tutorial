@@ -1,2 +1,2 @@
 # Git-Tutorial
-Just created for preparing 
+Just created for preparing git and 
