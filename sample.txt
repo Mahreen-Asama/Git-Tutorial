@@ -4,3 +4,5 @@ Table of contents:
 2) What is Git and GitHub
 3) create new repository
 3) Installation of git
+3) Installation of git
+4) test branch material
